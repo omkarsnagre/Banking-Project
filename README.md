@@ -49,9 +49,9 @@ CREATE TABLE user (
 ```
 ## Configure your MySQL database settings in `BankingApp.java`:
 ```bash
-private static final String DB_URL = "jdbc:mysql://localhost:3306/banking_system"; -Database URL
-private static final String DB_USER = "root"; - MySQL username
-private static final String DB_PASSWORD = "root"; - MySQL password
+private static final String DB_URL = "jdbc:mysql://localhost:3306/banking_system"; //Database URL
+private static final String DB_USER = "root"; //MySQL username
+private static final String DB_PASSWORD = "root"; //MySQL password
 ```
 ## Compile and Run the Application:
 ```bash
