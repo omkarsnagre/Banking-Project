@@ -25,7 +25,7 @@ We have implemented **encapsulation** in the code to ensure that sensitive user 
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/omkarsnagre/banking-system.git
+git clone https://github.com/omkarsnagre/banking_system.git
 ```
 ## Set up MySQL:
 Create a new database named banking_system and the necessary tables for user accounts and transactions.
