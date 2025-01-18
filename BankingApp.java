@@ -34,7 +34,7 @@ public class BankingApp {
             String email; // Variable to store user email
             long accNumber; // Variable to store account number
             
-            while (tr) {
+            while (true) {
                 // Display welcome message and options
                 System.out.println("*** WELCOME TO BANKING SYSTEM ***");
                 System.out.println();
